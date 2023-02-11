@@ -1,24 +1,25 @@
 site_name: ACM ML Bootcamp 2023
+remote_branch: gh-pages
+
 theme:
   name: material
-  custom_dir: overrides
+  custom_dir: overrides # has a customised download button
   palette:
-    - media: "(prefers-color-scheme: light)" 
+    - media: "(prefers-color-scheme: light)"
       scheme: default
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/brightness-7
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)" 
+    - media: "(prefers-color-scheme: dark)"
       scheme: slate
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
   logo: assets/ACM_Logo.png
-  favicon: assets/ACM_Logo.png
+  favicon: assets/favicon.ico
   icon:
     repo: fontawesome/brands/github
   features:
-    - announce.dismiss
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
@@ -48,6 +49,8 @@ copyright: Copyright &copy; 2023 - ACM BITS Pilani Dubai Campus
 
 nav:
   - Home: index.md
+  - Sessions:
+      - '1. Data Preprocessing': './01-data-preprocessing/docs.ipynb'
 
 markdown_extensions:
   - toc:

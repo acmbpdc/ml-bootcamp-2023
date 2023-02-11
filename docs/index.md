@@ -10,6 +10,7 @@ This bootcamp will provide its audience the core foundation in this amazing fiel
 
 | Session | Topic |
 | :-----: |:-------------:|
+| 1 | [Data Preprocessing](01-data-preprocessing/docs.ipynb) |
 
 ## Instructors
 
