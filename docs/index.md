@@ -12,7 +12,7 @@ This bootcamp will provide its audience the core foundation in this amazing fiel
 | :-----: |:-------------:|
 | 1 | [Data Preprocessing](01-data-preprocessing/docs.ipynb) |
 | 2 | [Model Building I](02-model-building-i/docs.ipynb) |
-| 2 | [Model Building II](02-model-building-ii/docs.ipynb) |
+| 2 | [Model Building II](03-model-building-ii/docs.ipynb) |
 
 ## Instructors
 
