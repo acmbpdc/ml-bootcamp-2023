@@ -1,6 +1,6 @@
 # Machine Learning Bootcamp - 2023 📊
 
-This repository contains the resources for the *Machine Learning Bootcamp - 20223 organized by [ACM](https://www.acmbpdc.org/).
+This repository contains the resources for the *Machine Learning Bootcamp - 2023* organized by [ACM](https://www.acmbpdc.org/).
 
 ## Overview
 
